@@ -1,7 +1,7 @@
 ### Hi 👋 i'm iara marques
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaramarques&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaramarques&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaramarques&theme=radical&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaraMarques&layout=compact&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="iara-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
