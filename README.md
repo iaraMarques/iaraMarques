@@ -23,3 +23,5 @@
 
 <p>
    <img src="https://cdn.discordapp.com/attachments/1063927045391917059/1066463375665664020/20230121_180359.gif" alt="iara-pic"  <img align="right" alt="iara-pic" height="150" style="border-radius:50px;">
+
+ ![snake gif](https://github.com/iaraMarques/iaraMarques/blob/output/github-contribution-grid-snake.svg)
