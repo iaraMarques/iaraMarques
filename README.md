@@ -1,5 +1,7 @@
 ### Hi 👋 i'm iara marques
 
+### I´m a Web Developer, And, I´m stydying  web development at [Rocketseat](https://www.rocketseat.com.br/) 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaraMarques&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaraMarques&layout=compact&theme=midnight-purple)
 
